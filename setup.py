@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Sergei Shteiner',
     author_email='sergei.shteiner@gmail.com',
-    url="https://github.com/sergei-shteiner/dutch_flag"
+    url="https://github.com/sergei-shteiner/dutch_flag",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
